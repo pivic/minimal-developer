@@ -1,22 +1,22 @@
 {
-  "title": "Your Blog Name",
-  "url": "https://example.com/",
+  "title": "Niklas's blog",
+  "url": "https://reliable-sundae-d3d567.netlify.app/",
   "language": "en",
-  "description": "I am writing about my experiences as a naval navel-gazer.",
+  "description": "This is an archive of Niklas's old blog. His new one is [pivic.blog](https://pivic.blog).",
   "feed": {
     "subtitle": "I am writing about my experiences as a naval navel-gazer.",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
-    "id": "https://example.com/"
+    "id": "https://reliable-sundae-d3d567.netlify.app/"
   },
   "jsonfeed": {
     "path": "/feed/feed.json",
-    "url": "https://example.com/feed/feed.json"
+    "url": "https://reliable-sundae-d3d567.netlify.app/feed/feed.json"
   },
   "author": {
-    "name": "Your Name Here",
+    "name": "Niklas",
     "email": "youremailaddress@example.com",
-    "url": "https://example.com/about-me/"
+    "url": "https://reliable-sundae-d3d567.netlify.app/about-me/"
   },
   "nav": [{
     "title": "home",
